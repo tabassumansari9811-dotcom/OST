@@ -1,2 +1,4 @@
 This is my experiment 2
-This line is written in branch2.
+This line is written in branch1 and branch2.
+
+
